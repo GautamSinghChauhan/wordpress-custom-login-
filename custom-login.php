@@ -4,7 +4,7 @@
  * Plugin URI: https://www.example.com/
  * Description: A custom login form for WordPress.
  * Version: 1.0
- * Author: Your Name
+ * Author: Gautam Singh Chauhan
  * Author URI: https://www.example.com/
 **/
 
